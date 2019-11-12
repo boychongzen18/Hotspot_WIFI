@@ -1,4 +1,4 @@
-# Share Internet For Android To All Windows Working 
+# Share Internet Android & All Windows Working 
 
 # Author : Boychongzen aka Xroot
 
@@ -7,7 +7,6 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/VPN2SHARE.jpg)
 # Tampilan Windows Applikasi TUN2TAP
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/win1.jpg)
-
 # Tampilan Android VPN2SHARE 
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/screen.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/screen-1.jpg)
