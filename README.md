@@ -8,6 +8,10 @@
 # Tampilan Windows Applikasi TUN2TAP
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/win1.jpg)
 
+# Tampilan Android VPN2SHARE 
+![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/screen.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/screen-1.jpg)
+
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial Windows : 
