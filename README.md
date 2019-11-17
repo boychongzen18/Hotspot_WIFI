@@ -26,4 +26,3 @@ My eMAIL      : hackingforlive@yahoo.com
 MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
 
 # Moto : Berbagi Itu Indah
-rnet
