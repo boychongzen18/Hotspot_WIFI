@@ -7,7 +7,7 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/VPN2SHARE.jpg)
 # Tampilan Windows Applikasi TUN2TAP
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/win1.jpg)
-# Tampilan Android VPN2SHARE 
+# Tampilan Android Psiphon Pro Unlimited & VPN2SHARE 
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/share.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/share1.jpg)
 
