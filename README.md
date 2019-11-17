@@ -13,7 +13,7 @@
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial Windows : 
+Link Tutorial Windows : https://youtu.be/fw6rAuPcmDU
 
 My Website    : https://hackingforlive.wordpress.com
 
