@@ -15,6 +15,8 @@ My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Link Tutorial Windows : https://youtu.be/fw6rAuPcmDU
 
+                        https://youtu.be/xwFmGoueUkY
+
 My Website    : https://hackingforlive.wordpress.com
 
 My Facebok    : https://web.facebook.com/xroot.xroot.7
