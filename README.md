@@ -12,8 +12,8 @@
 ![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/share1.jpg)
 # Tampilan HostShare HTTP Injector
 
-![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/hostpot1.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/hostpots.jpg) 
+![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/croot1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/Sharing_Internet/master/croot.jpg) 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
